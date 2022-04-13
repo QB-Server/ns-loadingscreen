@@ -129,8 +129,8 @@ body {
   text-transform: uppercase;
   font-weight: 600;
   position: absolute;
-  top: 600px;
-  right: 70px;
+  top: 703px;
+  right: 73px;
   z-index: 2;
 }
 
@@ -164,8 +164,8 @@ body {
   z-index: 2;
 }
 
-.video-bg {
-  width:100vw; /* Matches to the Viewport Width */
+/* .video-bg {
+  width:100vw; /* Matches to the Viewport Width
   height:auto;
   max-width:150% !important;
   position: absolute;
@@ -181,7 +181,7 @@ body {
   right: 1vw;
   z-index: 2;
   overflow: hidden;
-}
+} */
 
 .blink{
   animation:blinkingText 2.1s infinite;
