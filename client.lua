@@ -5,7 +5,6 @@ CreateThread(function()
             ShutdownLoadingScreenNui()
             ShutdownLoadingScreen()
             TriggerEvent("qb-multicharacter:client:chooseChar")
-            print('^1Shutting down Loading Screen^7')
             return
         end
     end
