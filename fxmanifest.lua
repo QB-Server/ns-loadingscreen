@@ -6,7 +6,7 @@ description 'ns-loadingscreen'
 version '1.0.0'
 author 'github.com/IN1GHTM4R3'
 
---client_script {'client.lua'}
+client_script {'client.lua'}
 
 files {
     'ui.html',
@@ -19,4 +19,4 @@ loadscreen {
 }
 
 loadscreen_cursor 'yes'
---loadscreen_manual_shutdown 'yes'
+loadscreen_manual_shutdown 'yes'
